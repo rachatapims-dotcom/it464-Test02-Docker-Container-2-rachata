@@ -80,4 +80,4 @@ file: ./nginx/shift-nginx.conf # (5.2) เติมชื่อโฟลเด�
 
 secrets:
   db_pass:
-file: ./secrets/./db_pass.txt # (5.3) เติมชื่อโฟลเดอร์และไฟล์ที่เก็บรหัสผ่านของฐานข้อมูล
+file: ./secrets/.db_pass.txt # (5.3) เติมชื่อโฟลเดอร์และไฟล์ที่เก็บรหัสผ่านของฐานข้อมูล
